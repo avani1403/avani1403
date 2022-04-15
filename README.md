@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @avani1403
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @avani1403(Baroor Avaneshwari)
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me avaneshwari6666@gmail.com
