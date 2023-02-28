@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @avani1403(Baroor Avaneshwari)
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 😄 Employement ... Open for full-time opportunities
+- 🌱 I’m currently working as Software Engineer Intern at Fareportal
 - 📫 How to reach me avaneshwari6666@gmail.com
 
 <!---
